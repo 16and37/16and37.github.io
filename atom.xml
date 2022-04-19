@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://woaihuangxuanting.github.io</id>
+    <id>https://16and37.github.io</id>
     <title>16and37</title>
-    <updated>2022-04-18T23:52:16.679Z</updated>
+    <updated>2022-04-19T06:46:09.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://woaihuangxuanting.github.io"/>
-    <link rel="self" href="https://woaihuangxuanting.github.io/atom.xml"/>
+    <link rel="alternate" href="https://16and37.github.io"/>
+    <link rel="self" href="https://16and37.github.io/atom.xml"/>
     <subtitle>16和37的日常</subtitle>
-    <logo>https://woaihuangxuanting.github.io/images/avatar.png</logo>
-    <icon>https://woaihuangxuanting.github.io/favicon.ico</icon>
+    <logo>https://16and37.github.io/images/avatar.png</logo>
+    <icon>https://16and37.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 16and37</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://woaihuangxuanting.github.io/post/hello-gridea/</id>
-        <link href="https://woaihuangxuanting.github.io/post/hello-gridea/">
+        <id>https://16and37.github.io/post/hello-gridea/</id>
+        <link href="https://16and37.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
