@@ -1,7 +1,7 @@
 function lovetime() {
     window.setTimeout("lovetime()", 1000);
     function timingTime(){
-      let start = '2022-3-15 10:00:00'
+      let start = '2022-3-15 22:00:00'
       let startTime = new Date(start).getTime()
       let currentTime = new Date().getTime()
       let difference = currentTime - startTime
@@ -11,7 +11,7 @@ function lovetime() {
       let ff = f % 60 // 分钟
       let s = Math.floor(f/ 60) // 小时
       let ss = s % 24
-      let day = Math.floor(s  / 24 ) // 天数
+      let day = Math.floor(s  / 24 )+30 // 天数
       return "我们已经在一起"day + "天" + ss + "时" + ff + "分" + mm +'秒啦'
     }
     setInterval(()=>{
